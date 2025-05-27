@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👋 Hi, I'm Faizan Ahmad Khan
+
+Aspiring Data Analyst with a passion for transforming data into actionable insights. Proficient in SQL, Excel, Python, and data visualization tools like Power BI and Tableau. Currently exploring the potentials of Generative AI and Large Language Models (LLMs) in data analytics.
+
+- 🔭 I’m currently working on enhancing my skills in data wrangling and visualization.
+- 🌱 I’m learning about advanced analytics and machine learning techniques.
+- 💬 Ask me about data cleaning, exploratory data analysis, and dashboard creation.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/faizanahk/) | [Email](mailto:faizanahk@example.com)
