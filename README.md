@@ -32,11 +32,18 @@ Welcome to my GitHub! I’m an aspiring **Data Analyst** from India with a passi
 
 ## 👨‍💻 About Me
 
-🎓 Self-taught Data Analyst  
-📊 Passionate about analytics, storytelling, and GenAI tools  
-🔍 Exploring new datasets and techniques every day  
-📬 Always open to opportunities, collaborations, and learning!
+🎓 Data Analyst  
 
+📊 Proficient in PivotTables, VLOOKUP, data validation, and conditional formatting for efficient data analysis and reporting.
+
+📊 Skilled in creating interactive dashboards and visualizations with Power BI, utilizing DAX, Power Query, and custom visuals 
+
+🔍 Experienced in writing complex SQL queries for data extraction, aggregation, and analysis across large datasets.
+
+📬 Competent in using Python libraries like Pandas, NumPy, and Matplotlib for data manipulation and analysis.
+
+🔍 Proficient in data cleaning techniques to ensure accuracy and consistency in datasets, using tools like Excel, SQL, and Python.
+    
 ---
 
 ## 📌 Projects
