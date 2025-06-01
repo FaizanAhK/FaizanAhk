@@ -74,8 +74,6 @@ Here are some of my top projects. Visit my [Repositories](https://github.com/Fai
 **Other Tools**  
 - Git & GitHub  
 - Jupyter Notebook / Google Colab  
-- Web Scraping (BeautifulSoup, Requests)  
-- Google Analytics, Notion
 
 ---
 
