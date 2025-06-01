@@ -87,7 +87,7 @@ Here are some of my top projects. Visit my [Repositories](https://github.com/Fai
 
 ## 🌐 Socials & Contact
 
-- 📫 Email: faizanahk@gmail.com  
+- 📫 Email: fk20013358@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/faizanahk/)  
 - 📁 [Portfolio Website](https://datascienceportfol.io/fk20013358)  
 - 📝 [Medium Blog](https://medium.com/@faizanahk) *(Upcoming writeups on data case studies)*  
