@@ -57,7 +57,7 @@ Here are some of my top projects. Visit my [Repositories](https://github.com/Fai
 | [📈 Walmart Sales Analytics](https://github.com/FaizanAhK/Walmart_Sales_Analysis) | Performed EDA on Walmart Sales data to understand performing branches and products. | SQL |
 | [🧪 Risk Analysis](https://github.com/FaizanAhK/Banking_Domain_Risk_Analysis) | Developed a basic understanding of Risk Analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers. | Python, Power BI, Excel |
 | [📊 PwC Job Simulation](https://github.com/FaizanAhK/PwC_Job_Simulation) | Perfromed Analysis on PwC workplace provided Dataset to gain insights. | Excel, Power BI |
-| [🏏 Cricket Analytics](https://github.com/FaizanAhK/Cricket-EDA) | Web scraped cricket data to determine best players based on stats | Python, BeautifulSoup, Power BI, Excel |
+| [🏏 Cricket Analytics](https://github.com/FaizanAhK/cricket_data_analytics) | Web scraped cricket data to determine best players based on stats | Python, BeautifulSoup, Power BI, Excel |
 
 ---
 
