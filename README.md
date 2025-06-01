@@ -53,7 +53,7 @@ Here are some of my top projects. Visit my [Repositories](https://github.com/Fai
 | Project | Description | Tools |
 |--------|-------------|-------|
 | [🏡 Blinkit Perfromance Customer Analytics](https://github.com/FaizanAhK/Blinkit_Performance_Customer_Analytics) | Analyzed Blinkit's Sales and Performance to identify top-performing cities and price trends | Power BI, Excel, SQL |
-| [🗳️ Indian Election SQL Project](https://github.com/FaizanAhK/Election-SQL-Analysis) | SQL project exploring the 2024 Indian general election results | MySQL |
+| [🗳️ Indian Election SQL Project](https://github.com/FaizanAhK/Election_Analysis_SQL) | SQL project exploring the 2024 Indian general election results | MySQL |
 | [📈 Walmart Sales Analytics](https://github.com/FaizanAhK/Walmart_Sales_Analysis) | Performed EDA on Walmart Sales data to understand performing branches and products. | SQL |
 | [🧪 Risk Analysis](https://github.com/FaizanAhK/Banking_Domain_Risk_Analysis) | Developed a basic understanding of Risk Analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers. | Python, Power BI, Excel |
 | [📊 PwC Job Simulation](https://github.com/FaizanAhK/PwC_Job_Simulation) | Perfromed Analysis on PwC workplace provided Dataset to gain insights. | Excel, Power BI |
